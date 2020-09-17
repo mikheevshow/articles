@@ -1,3 +1,5 @@
+[Оригинал статьи](https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2)
+
 # Протокол Ребалансировки Apache Kafka или Магия Внутри Ваших Потоковых Приложений
 
 Начиная с Apache Kafka 2.3.0, внутренний протокол ребалансировки, который в особенности используется в Kafka Connect и потребителями (consumers), претерпел несколько важных изменений.
